@@ -1,4 +1,4 @@
-# powerbi-mysql-sqlserver-dashboard
+# Dashboard De Vendas | Power BI
 Projeto de Business Intelligence envolvendo migração de banco MySQL para SQL Server, tratamento dos dados em SQL e desenvolvimento de dashboards no Power BI.
 
 
