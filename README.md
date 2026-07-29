@@ -17,7 +17,9 @@ Modelagem dimensional
 DAX
 
 Business Intelligence
+
 Visualização de dados
+
 Governança de dados
 
 # Tecnologias e Funcionalidades
