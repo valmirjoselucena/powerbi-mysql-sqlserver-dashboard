@@ -7,10 +7,15 @@ Projeto de Business Intelligence envolvendo migração de banco MySQL para SQL S
 Durante o desenvolvimento deste projeto foram aprimorados conhecimentos em:
 
 Migração entre bancos de dados
+
 ETL
+
 SQL avançado
+
 Modelagem dimensional
+
 DAX
+
 Business Intelligence
 Visualização de dados
 Governança de dados
