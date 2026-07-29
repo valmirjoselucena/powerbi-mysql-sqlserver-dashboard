@@ -8,19 +8,19 @@ Durante o desenvolvimento deste projeto foram aprimorados conhecimentos em:
 
 Migração entre bancos de dados
 
-ETL
+-ETL
 
-SQL avançado
+-SQL avançado
 
-Modelagem dimensional
+-Modelagem dimensional
 
-DAX
+-DAX
 
-Business Intelligence
+-Business Intelligence
 
-Visualização de dados
+-Visualização de dados
 
-Governança de dados
+-Governança de dados
 
 # Tecnologias e Funcionalidades
 
